@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "856694546467",
+    "project_id": "bill-to-mobile",
+    "storage_bucket": "bill-to-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856694546467:android:dfe76066ed39194fbb5196",
+        "android_client_info": {
+          "package_name": "net.womenindigital.bill_to"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856694546467-qvfbk4ih16aihlg1h1g4p9sntkkakjda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.womenindigital.bill_to",
+            "certificate_hash": "04c0423db0d2d951ddb4a55458aac7b667d35737"
+          }
+        },
+        {
+          "client_id": "856694546467-gn154m12c7r1tp463cp459okoqvctbid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDenVZhss3KZQYP2zbCsILu70porNfP0X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856694546467-gn154m12c7r1tp463cp459okoqvctbid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

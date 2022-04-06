@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--<resources>-->
+<!--    <string name="facebook_app_id">2113548298823162</string>-->
+<!--    <string name="fb_login_protocol_scheme">fb2113548298823162</string>-->
+<!--    <string name="facebook_client_token">445ffe87aef781759a85366e08880ede</string>-->
+<!--    <string name="app_name">BillTo Native</string>-->
+<!--</resources>-->
+
+<resources>
+<string name="app_name">BillTo Native</string>
+<string name="facebook_app_id">833552920870058</string>
+<string name="fb_login_protocol_scheme">fb833552920870058</string>
+</resources>
